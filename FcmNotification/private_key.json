@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "footballbuzz-app",
+  "private_key_id": "bb3e88598d0433a13ecea79eda471905db14089d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDvdLYxvnnTtu8L\nI37l/f9djuEnF9w4lIr8SBwFA4z66maT9kaD1Vbtmea3v6z4keWk9R/l/7BujsVB\nHW83lz8rLfXjF6JFJEch6u9OiANNmgiqSjRJSNfOGfUQZRRPE7jA66plqYxTu2bo\nuLuF8b9+WIpuyXF5u6L5MabXs/mXfiDrqoGm3EjwbEieB5DcP1XBCRYP6ouy1gP7\n6mFB7jyrJdJULG1SyYQ+KrkDNoh4pB1DGCLEzX1VUzTNxabqxoXEh+yis4y6I+/A\nIfgf+feHYJCWU5hjtaq4nandEEbwu+SZjeKovTn5HbKjwBT6zZqqscapRaEEo91s\nf+nlFF5zAgMBAAECggEAFtlGp1F7E3ohrijpa23Ep7tB/bZ3o4h9CJyi29GearTi\nK900llDNlid4zfDCwwc85/Qh4pL21V3XMaLq4V2Tv/2HOG+hYsKW7QQbaJ1u30FC\n8WjaO2Hxga+VZEaY3QDPQM1b+Y5nnvfDVpKGBj5unNI7B14+bzS51NhpiKyaNNu7\nabtK7Tv8poN1E9c+9kmLiT8r2B1O4VmOIXWd/rtr11XADgP4RonzMkRDnhdh7jLK\nXGktIyMfEfTbgjUlbRwAKKRB80msUrEBmiNT5RmGAtdmo/e/KLvbtNW2Gu2mVzNh\nLkv8Gi40xLX10QldlJqkbtxChfeTKg8QLcgNEn1hFQKBgQD9s04MPwPTsDh+8gfg\n9AclLYyg1WxrDKgMjKhxQVOddhZwdrM8CFrmyglXzcBCQhHyee9Z2rk528qcHaFP\nql3MjHgmGRaW6a6/Ah6zJrcSAH/kw6dF3zZBigdttcRDvgNQdmTkm3u5OZOymLWc\np5wBMklLYeITJETdpQIqGXqr5wKBgQDxoFp3eMwJz7koNC7lSaZBnU11XC17UXu/\nbpzmzDU8/R2nQ1gk9+TKb0Kv0F4ukZXj1WXhpeNLWhjMeIXJOvznnYcP+g/tbX/X\nrX9ea0Y/t352wN7AafhCcpYyTWtb+e6pUKen5Je9LLq208nyyhtZQquaR4c0fCCZ\n7yZaws0HlQKBgQCtWBVM4sWPn4mKm37sonA7Y9sBjbINltE/+d+hurwSC7ybTU98\nBk1uAb/OgaQK4a/3mH8FSyBiOx49+zTcBREgER6LEXtQ1Ax1MFKfoCVYJIU+Xrzt\nTe15bIFU4exfSPZkxPB9DwvDbGbRkewNRKygWKah3hilcZOoSfWnpE8gIwKBgQDE\nBvT+MklOuHCeFl/pcyvn1aeOzB62CnBb6XBvqkKS3UMefPtY2qiKN2Oh4WlXXJN/\nSJSkUYIqksjFsg3QKQQfIGT/6D7dv9VU9BP+VQekD8kQrP7Kme5ocjA6VScBcq5W\nPPIXutQEDPLZ+s6/I4q2iulPfDJLuVx1pli2j43pVQKBgQCcgm6hOAN0OINfUsfX\nJDlR1kMcZpb3FEoNaHeYHjUGsiS9HbiGkkGlbXC7e+hFmiNDPM1lQhppKjF3NfNr\namNG04FS3F7spakN7ARHkyyhOp3GZjAL4l7C86wZAdS9Mnhkgy1MB7I1IltpMkw4\nuq8oc8e8P35u96qdY7hsSEgG0Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-z635z@footballbuzz-app.iam.gserviceaccount.com",
+  "client_id": "112311275264145705564",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-z635z%40footballbuzz-app.iam.gserviceaccount.com"
+}
